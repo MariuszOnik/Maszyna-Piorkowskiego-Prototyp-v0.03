@@ -1,0 +1,16 @@
+{
+"companyName": "FreeMind",
+"productName": "Psychotesty Prototyp Maszyna Piorkowskiego",
+"productVersion": "0.3",
+"dataUrl": "WebGL4.data.unityweb",
+"wasmCodeUrl": "WebGL4.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
